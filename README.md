@@ -99,5 +99,5 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [Screenshot-V3]: Screenshot V3.png
-[Screenshot-V2]: Screenshot V2.png
-[Screenshot-V1]: Screenshot V1.png
+[Screenshot-V2]: ScreenshotV2.png
+[Screenshot-V1]: Screenshot V1.png 
