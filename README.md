@@ -58,6 +58,9 @@ An application protoype desgin for HCI - Info31179 This prototype was desgined i
 
 [![Product Name Screen Shot][Screenshot-V2]]
 
+
+![Screenshot](ScreenshotV2.png)
+
 For the teachers: 
 •	easy access to student progress
 •	be able to upload schoolwork and set deadlines
