@@ -9,9 +9,14 @@ An application protoype desgin for HCI - Info31179 This prototype was desgined i
 
   <h3 align="center">Classroom App</h3>
 
+  <a>
   <p align="center">
     A protoype design of an application  desgin for INFO31179
     <br />
+    
+    <a href="https://www.figma.com/file/KL24D4iNlxOHBw8gQXQzVC/YOUSSEF-ALCHAER-V2">
+https://www.figma.com/file/KL24D4iNlxOHBw8gQXQzVC/YOUSSEF-ALCHAER-V2p</a>
+    
   </p>
 </div>
 
@@ -23,6 +28,7 @@ An application protoype desgin for HCI - Info31179 This prototype was desgined i
  <h3 align="center">Prototype Design #2</h3>
  
 ![Screenshot](ScreenshotV2.png)
+
 
 For the teachers: 
 * easy access to student progress
@@ -37,7 +43,6 @@ For the students:
 
 <!-- ROADMAP -->
 ## Roadmap
-
 - [x] Idea
 - [x] Needfinding
 - [x] Competitive Analysis
