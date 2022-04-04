@@ -14,8 +14,8 @@ An application protoype desgin for HCI - Info31179 This prototype was desgined i
     A protoype design of an application  desgin for INFO31179
     <br />
     
-    <a href="https://www.figma.com/file/KL24D4iNlxOHBw8gQXQzVC/YOUSSEF-ALCHAER-V2">
-https://www.figma.com/file/KL24D4iNlxOHBw8gQXQzVC/YOUSSEF-ALCHAER-V2p</a>
+ Figma Link :
+https://www.figma.com/file/KL24D4iNlxOHBw8gQXQzVC/YOUSSEF-ALCHAER-V2p
     
   </p>
 </div>
