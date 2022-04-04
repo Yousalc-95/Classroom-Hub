@@ -20,12 +20,15 @@ An application protoype desgin for HCI - Info31179 This prototype was desgined i
 ## About The Project
 
 
+ <h3 align="center">Prototype Design #2</h3>
+ 
 ![Screenshot](ScreenshotV2.png)
 
 For the teachers: 
 * easy access to student progress
 * be able to upload schoolwork and set deadlines
 * interact with students better through group chats and messages
+
 For the students:
 * see work and due date better
 *	get notification on upcoming events
@@ -48,6 +51,6 @@ For the students:
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Screenshot-V3]: Screenshot V3.png
+[Screenshot-V3]: ScreenshotV3.png
 [Screenshot-V2]: ScreenshotV2.png
-[Screenshot-V1]: Screenshot V1.png 
+[Screenshot-V1]: ScreenshotV1.png 
